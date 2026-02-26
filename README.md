@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on full-stack projects<br>🌱 I’m currently learning Gen AI and System Design<br>⚡ Fun fact - lol
+👯 I’m looking to collaborate on full-stack projects<br>🌱 I’m currently learning Gen AI and System Design<br>
 
 
 
