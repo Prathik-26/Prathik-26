@@ -1,7 +1,3 @@
-[![github-header-banner.png](https://i.postimg.cc/2jB1gVk4/github-header-banner.png)](https://postimg.cc/dDwQyQT1)
-
-
-
 
 ## What I’m building right now 🛠️
 -  [OMS](https://oms-two-sigma.vercel.app/) –  Role based internal workflow and approval management system for organizations.
