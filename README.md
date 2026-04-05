@@ -1,8 +1,7 @@
 
 ## What I’m building right now 🛠️
+-  [Request Lab](https://request-lab.vercel.app/) –  A minimal API Client on the browser (in progess)
 -  [OMS](https://oms-two-sigma.vercel.app/) –  Role based internal workflow and approval management system for organizations.
--  **Request Lab** –  A minimal API Client on the browser
-
 
 
 # 💻 Tech Stack:
